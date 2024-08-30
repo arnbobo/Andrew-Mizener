@@ -21,7 +21,7 @@ repository               : "arnbobo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "files/profile.png"
   name             : "Andrew Mizener"
   pronouns         : "he/they"  
   bio              : "I'm a PhD candidate interested in dust attenuation curves. How do they change as a function of redshift and host galaxy properties? I'm also interested in how high-redshift galaxies assemble their dust, as well as undergraduate teaching. I'd love to collaborate!"
